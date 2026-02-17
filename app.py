@@ -255,4 +255,3 @@ with cB:
 st.caption(
     "Tip: Increase epochs for higher accuracy, or turn off the subset option to train on the full MNIST dataset."
 )
-
